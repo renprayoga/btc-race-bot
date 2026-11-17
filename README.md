@@ -65,4 +65,3 @@ environment, no randomness, no files outside the repository.
 - `main.ts` — the bot.
 - `vendor/makefun-bars.ts` — the kit's protocol shim, vendored unchanged.
 - `LICENSE` — MIT.
-- `BUILD_LOG.md` — build notes and measured results.
